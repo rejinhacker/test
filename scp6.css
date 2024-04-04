@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #0f95dc;
+}
+
+h1 {
+    background-color: #080808;
+    color: #bb3333;
+    padding: 10px;
+}
+
+h2 {
+    background-color: #111111;
+    color: #fff;
+    padding: 8px;
+}
+
+h3 {
+    background-color: #060606;
+    color: #fff;
+    padding: 6px;
+}
+
+p {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+ol {
+    background-color: #0c0c0c;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+li {
+    background-color: #fdfafa;
+    padding: 8px;
+    margin: 5px 0;
+}
+

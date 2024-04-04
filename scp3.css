@@ -1,0 +1,159 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fe8b08;
+}
+
+h1 {
+    background-color: #dcdcdc;
+    color: #120c0c;
+    padding: 10px;
+    margin: 0;
+}
+
+h2 {
+    background-color: #cac8c8;
+    color: #070707;
+    padding: 8px;
+    margin: 10px 0;
+}
+
+h3 {
+    background-color: #edeaea;
+    color: #060606;
+    padding: 6px;
+    margin: 10px 0;
+}
+
+p {
+    background-color: #030303;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+img {
+    display:grid;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+h3:nth-of-type(4) {
+    background-color: #999;
+    color: #fff;
+    padding: 6px;
+    margin: 10px 0;
+}
+
+p:nth-of-type(5) {
+    background-color: #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+
+
+h1 {
+    color: #131413;
+}
+
+h2 {
+    color:  #131413;
+}
+
+h3 {
+    color: #131413;
+}
+
+p {
+    color: #eee9e9;
+    line-height: 1.5;
+}
+
+.b {
+    color: #68f715;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.addendum {
+    margin-top: 40px;
+    border-top: 1px solid #f711d0;
+    padding-top: 20px;
+    color: #68f715;
+}
+
+.addendum h4 {
+    color:   #68f715;
+
+    margin-top: 10px;
+}
+
+.dum1{
+    
+        color:   #68f715;
+
+        background-color: #097498;
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 20px;
+    
+}
+
+.dum2{
+    
+    color:   #68f715;
+
+    background-color: #097498;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+.dum3{
+    
+    color:   #68f715;
+
+    background-color: #097498;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+
+} 
+
+
+
+.dum4{
+    
+    color:   #68f715;
+
+    background-color: #097498;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+
+.dum5{
+    
+    color:   #68f715;
+
+    background-color: #097498;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+.pp{
+    position: absolute;
+    width: 100px;
+    height: 90px;
+}
